@@ -102,12 +102,11 @@ body {
 	align-items: center;
 	background-color: white;
 	margin-top: 25px;
-	height: 97px;
+	height: 96px;
 	position: fixed;
 	width: 1400px;
 	flex-shrink: 1;
-	
-}
+	}
 
 .flex-2 span {
 	color: orangered;
